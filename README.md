@@ -1,2 +1,2 @@
 # CameraApp
-Aplicación utilizando el API de Cámara
+Aplicación utilizando la Cámara
